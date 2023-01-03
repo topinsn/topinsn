@@ -72,7 +72,7 @@
                 <p style="text-align: justify;">
                     After reading through your job description, I have deduced that you are looking to hire a competent and vastly experienced content writer to promote your business. I can assure you that I can deliver a job that will produce excellent results. <br><br>                    I am a bilingual English Language speaker with a Master degree in English. In attestation to my versatility, Cambridge University has verified my usage of the English Language and rated it native/bilingual as it appears in my profile.
                     I am a motivated and diligent freelancer, and I pride myself on creating top-notch content that will match your objectives and help you achieve your aim. <br><br> Previously, I have worked on various writing tasks, carrying projects
-                    from concept to completion. I can take on challenging and complex briefs, transforming them into a simple yet effective writing solution that will leave you satisfied and impressed. <br><br> You’ll get your work done and delivered
+                    from concept to completion. I can take on challenging and complex briefs, transforming them into a simple yet effective writing solution that will leave you satisfied and impressed. <br><br> You/’ll get your work done and delivered
                     in real-time, and I will be available to attend to all your questions, requests, and complaints before, during, and after the project.
 
                 </p>
@@ -109,12 +109,12 @@
                     system, acquiring management facilities across the different organisations for his hospital. He managed over 40 staff members and involve in voluntary community development. He completed his Master’s Degree at the prestigious Obafemi
                     Awolowo University, Ile-Ife, Nigeria in 2018.
 
-                    <?php $year = date("Y");
-                    // echo $year; 
-                        echo date('l \t\h\e jS');
-                    ?>
+                    
 
                 </p>
+                <?php $year = date("Y");
+                    echo $year;
+                ?>
             </div>
         </div>
         <div align="center">
@@ -122,5 +122,5 @@
         </div>
        
 <?php 
-    require_once("footer.php");
+    include_once("footer.php");
 ?>
