@@ -13,7 +13,7 @@
                     <li><a href="https://www.linkedin.com/in/topeoyelami/">LinkedIn</a></li>
                 </ul>
 
-                <span> (c) Temitope Olaoluwa 
+                <span> (c) Temitope Olaoluwa Dady Seyi
                     <?php 
                         $current_year = date("Y");
 		                echo $current_year;

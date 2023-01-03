@@ -112,9 +112,7 @@
                     
 
                 </p>
-                <?php $year = date("Y");
-                    echo $year;
-                ?>
+                
             </div>
         </div>
         <div align="center">
