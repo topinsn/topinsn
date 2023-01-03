@@ -13,7 +13,7 @@
                     <li><a href="https://www.linkedin.com/in/topeoyelami/">LinkedIn</a></li>
                 </ul>
 
-                <span> (c) Temitope Olaoluwa <?php echo date("Y")?> </span>
+                <span> (c) Temitope Olaoluwa <?php echo date("F J, Y")?> </span>
             </div>
 
         </div>

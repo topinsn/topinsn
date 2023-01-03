@@ -108,6 +108,12 @@
                     <br><br> In his earlier career, Temitope worked as a Project Officer on the Ponseti International Association Grant for clubfoot eradication in Nigeria spanning about 20 states across the country. He also has managed a complex hospital
                     system, acquiring management facilities across the different organisations for his hospital. He managed over 40 staff members and involve in voluntary community development. He completed his Master’s Degree at the prestigious Obafemi
                     Awolowo University, Ile-Ife, Nigeria in 2018.
+
+                    <?php $year = date("Y");
+                    // echo $year; 
+                        echo date('l \t\h\e jS');
+                    ?>
+
                 </p>
             </div>
         </div>
