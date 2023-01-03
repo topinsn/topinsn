@@ -13,7 +13,7 @@
                     <li><a href="https://www.linkedin.com/in/topeoyelami/">LinkedIn</a></li>
                 </ul>
 
-                <span> (c)Temitope Olaoluwa 2022 </span>
+                <span> (c)Temitope Olaoluwa <?php echo date("Y")?> </span>
             </div>
 
         </div>
