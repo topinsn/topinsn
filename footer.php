@@ -17,6 +17,7 @@
                     <?php 
                         $current_year = date("Y");
 		                echo $current_year;
+                        echo time();
                     ?> 
                 </span>
             </div>
@@ -25,9 +26,7 @@
 
     </div>
 
-    <!--JS file-->
-    <script type="text/javascript" src="js/bootstrap.bundle.js"></script>
-
+   
 </body>
 
 </html>
