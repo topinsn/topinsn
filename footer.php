@@ -13,7 +13,12 @@
                     <li><a href="https://www.linkedin.com/in/topeoyelami/">LinkedIn</a></li>
                 </ul>
 
-                <span> (c) Temitope Olaoluwa <?php echo date("F J, Y")?> </span>
+                <span> (c) Temitope Olaoluwa 
+                    <?php 
+                        $current_year = date("Y");
+		                echo $current_year;
+                    ?> 
+                </span>
             </div>
 
         </div>
