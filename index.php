@@ -9,14 +9,15 @@
                 <div class="dropdown mt-3 text-right">
                     <button type="button" class="btn btn-success dropdown-toggle" data-bs-toggle="dropdown">
                         Menu
-                    </button>
+                    
                     <ul class="dropdown-menu ">
                         <li><a class="dropdown-item" href="index.php">Home</a></li>
                         <li><a class="dropdown-item" href="about.php">About</a></li>
-                        <!-- <li><a class="dropdown-item" href="#">Portfolio</a></li> -->
+                        <li><a class="dropdown-item" href="#">Portfolio</a></li>
 
                         <li><a class="dropdown-item" href="contact.php">Contact</a></li>
                     </ul>
+                    </button>
                 </div>
             </div>
         </div>
@@ -120,5 +121,5 @@
         </div>
        
 <?php 
-    include_once("footer.php");
+    require_once("footer.php");
 ?>
