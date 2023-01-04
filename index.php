@@ -6,19 +6,12 @@
         <!-- logo and menu -->
         <div class="row header ">
             <div class="col-md-12 menu ">
-                <div class="dropdown mt-3 text-right">
-                    <button type="button" class="btn btn-success dropdown-toggle" data-bs-toggle="dropdown">
-                        Menu
-                    
-                    <ul class="dropdown-menu ">
-                        <li><a class="dropdown-item" href="index.php">Home</a></li>
-                        <li><a class="dropdown-item" href="about.php">About</a></li>
-                        <li><a class="dropdown-item" href="#">Portfolio</a></li>
-
-                        <li><a class="dropdown-item" href="contact.php">Contact</a></li>
-                    </ul>
-                    </button>
-                </div>
+            <ul class="">
+                <li><a class="" href="index.php">Home</a></li>
+                    <li><a class="" href="about.php">About</a></li>
+                    <li><a class="" href="#">Portfolio</a></li>
+                    <li><a class="" href="contact.php">Contact</a></li>
+                </ul>
             </div>
         </div>
         <!-- Banner
@@ -116,9 +109,8 @@
                 
             </div>
         </div>
-        <div align="center">
-            <hr width="450px">
-        </div>
+        
+        
        
 <?php 
     require_once("footer.php");

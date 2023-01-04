@@ -1,4 +1,7 @@
  <!-- footer -->
+ <div align="center">
+    <hr width="450px">
+ </div>
  <div class="row text-md-center footer">
             <div class="col-md-12">
                 <h1>connect with me</h1>
