@@ -14,9 +14,10 @@
                 </ul>
 
                 <span> (c) Temitope Olaoluwa
-                    <?php 
+                    <?php
+                        $initial_year = 2021;
                         $current_year = date("Y");
-		                echo $current_year;
+		                echo $initial_year - $current_year;
                         
                     ?> 
                 </span>
