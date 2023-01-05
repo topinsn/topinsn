@@ -2,25 +2,7 @@
     include_once("header.php");
 ?>
 
-<body>
-    <div class="container-fluid">
-        <!-- logo and menu -->
-        <div class="row header ">
-            <div class="col-md-12 menu ">
-                <div class="dropdown mt-3 text-right">
-                    <button type="button" class="btn btn-success dropdown-toggle" data-bs-toggle="dropdown">
-                        Menu
-                    </button>
-                    <ul class="dropdown-menu ">
-                        <li><a class="dropdown-item" href="#">Home</a></li>
-                        <li><a class="dropdown-item" href="#">About</a></li>
-                        <!-- <li><a class="dropdown-item" href="#">Portfolio</a></li> -->
 
-                        <li><a class="dropdown-item" href="#">Contact</a></li>
-                    </ul>
-                </div>
-            </div>
-        </div>
 
 
         <!-- little writeup about me -->
@@ -54,7 +36,7 @@
 
                 </p>
                 <button type="button" class="btn btn-success ">
-                    <a href="contact.html" style="text-decoration:none;" class="text-light">Contact Me</a>
+                    <a href="contact.php" style="text-decoration:none;" class="text-light">Contact Me</a>
                 </button>
             </div>
 

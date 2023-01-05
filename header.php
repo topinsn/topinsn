@@ -15,14 +15,24 @@
     <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/css/bootstrap.min.css">
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6.2.1/css/fontawesome.min.css">
+    <link rel="icon" type="image/x-icon" href="images/home.png">
     <title>Temitope Olaoluwa - Freelance Fullstack Web Developer</title>
     <style>
         @import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400&display=swap');
-        /* font-family: 'Open Sans', sans-serif; */
+         font-family: 'Open Sans', sans-serif; 
         
         .menu {
             background-image: url("images/banner_1.png");
             min-height: 100px;
+        }
+
+        .menu ul li{
+            list-style-type: none;
+            text-decoration: none;
+        }
+        .menu ul li a{
+            text-decoration: none;
+            color: floralwhite;
         }
         
         .footer ul li {
@@ -39,7 +49,25 @@
         hr {
             color: #131210ff;
         }
+
+        .body{
+            background-color: #C4A9A9;
+        }
+
     </style>
 
-    <!-- <link rel="icon" type="image/x-icon" href="images/favicon.ico"> -->
+    
 </head>
+<body class="body">
+    <div class="container-fluid">
+        <!-- logo and menu -->
+        <menu class="row header ">
+            <div class="col-md-12 menu ">
+                <ul class="d-flex justify-content-end ">
+                    <li><a class="" href="index.php">Home</a></li>
+                    <li><a class="ps-4" href="about.php">About</a></li>
+                    <li><a class="ps-4" href="portfolio.php">Portfolio</a></li>
+                    <li><a class="ps-4" href="contact.php">Contact</a></li>
+                </ul>
+            </div>
+        </menu>

@@ -8,7 +8,7 @@
             </div>
             <div class="col-md-12 ">
                 <ul>
-                    <i class="fa-brands fa-github"></i>
+                    <i class="bi bi-github"></i>
                     <li><a href="https://github.com/topinsn">Github</a></li>
                     <i class="fa-brands fa-twitter"></i>
                     <li><a href="https://twitter.com/topinsn">Twiter</a></li>

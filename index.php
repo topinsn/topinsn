@@ -1,19 +1,7 @@
 <?php 
     require_once("header.php");
 ?>
-<body>
-    <div class="container-fluid">
-        <!-- logo and menu -->
-        <div class="row header ">
-            <div class="col-md-12 menu ">
-            <ul class="">
-                <li><a class="" href="index.php">Home</a></li>
-                    <li><a class="" href="about.php">About</a></li>
-                    <li><a class="" href="#">Portfolio</a></li>
-                    <li><a class="" href="contact.php">Contact</a></li>
-                </ul>
-            </div>
-        </div>
+
         <!-- Banner
         <div class="row">
             <div class="col-md-12">
@@ -109,6 +97,10 @@
                 
             </div>
         </div>
+
+        <?php 
+            include_once ("portfolio.php");
+        ?>
         
         
        

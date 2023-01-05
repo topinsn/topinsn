@@ -1,3 +1,6 @@
+<head>
+	<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/css/bootstrap.min.css">
+</head>
 <style type="text/css">
 	#projects_1{
 		border: 0.1em solid red;
@@ -7,8 +10,8 @@
 
 	#projects_2{
 		border: 0.1em solid yellowgreen;
-		min-height: 20em;
-		min-width: 10em;
+		min-height: 20em !important;
+		min-width: 10em !important;
 	}
 
 	#projects_3{
@@ -17,15 +20,25 @@
 		min-width: 10em;
 	}
 </style>
-<h2>Portfolio</h2>
-<div id="projects_1">
-	
-</div>
 
-<div id="projects_2">
+<div class="container-fluid">
+	<div class="col-md-12 d-flex justify-content-center">
+		<h2>Portfolio</h2>
+	</div>
 	
-</div>
+	<div class="row d-flex justify-content-center">
 
-<div id="projects_3">
-	
+		<div id="projects_1" class="col-md-3 me-1">
+			<a href="http://healthcare.temidev.com.ng/"><embed src="http://healthcare.temidev.com.ng/" style="width:auto; height: auto;"></a>
+		</div>
+
+		<div id="projects_2" class="col-md-3 me-1">
+
+			
+		</div>
+
+		<div id="projects_3" class="col-md-3">
+			
+		</div>
+	</div>
 </div>
