@@ -7,14 +7,16 @@
                 <h1>connect with me</h1>
             </div>
             <div class="col-md-12 ">
-                <ul>
-                    <i class="bi bi-github"></i>
+                <ul id="sm">
+                    <i class="fa-brands fa-github"></i>
                     <li><a href="https://github.com/topinsn">Github</a></li>
+                    
                     <i class="fa-brands fa-twitter"></i>
                     <li><a href="https://twitter.com/topinsn">Twiter</a></li>
+
                     <i class="fa-brands fa-linkedin"></i>
                     <li><a href="https://www.linkedin.com/in/topeoyelami/">LinkedIn</a></li>
-                </ul>
+                        </ul>
 
                 <span> (c) Temitope Olaoluwa
                     <?php
