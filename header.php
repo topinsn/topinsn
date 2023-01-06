@@ -63,8 +63,8 @@
 <body class="body">
     <div class="container-fluid">
         <!-- logo and menu -->
-        <menu class="row header ">
-            <div class="col-md-12 menu ">
+        <menu class="row header menu">
+            <div class="col-md-12 ">
                 <ul class="d-flex justify-content-end ">
                     <li><a class="" href="index.php">Home</a></li>
                     <li><a class="ps-4" href="about.php">About</a></li>
