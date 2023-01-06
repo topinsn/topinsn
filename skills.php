@@ -18,7 +18,7 @@
 				<th>Backend</th>
 				<td><i class="fa-brands fa-php icons"></i></td>
 				<td>
-					<img src="images/mysql.png" alt="mysql icon" class="img-fluid icons">
+					<img src="images/mysql.png" alt="mysql icon" class="d img-fluid icons">
 				</td>
 				
 			</tr>

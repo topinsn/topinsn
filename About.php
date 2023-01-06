@@ -7,7 +7,7 @@
 
         <!-- little writeup about me -->
         <?php 
-            include_once "intro.php"; 
+            include_once ("intro.php"); 
         ?>
 
         <!-- About me -->
