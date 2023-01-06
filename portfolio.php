@@ -33,7 +33,7 @@
 	<div class="row d-flex justify-content-center">
 
 		<div id="projects_1" class="col-md-3 me-1">
-			<a href="http://healthcare.temidev.com.ng/"><embed src="http://healthcare.temidev.com.ng/" style="width:auto; height: auto;"></a>
+			<a href="https://healthcare.temidev.com.ng/"><embed src="http://healthcare.temidev.com.ng/" style="width:auto; height: auto;"></a>
 		</div>
 
 		<div id="projects_2" class="col-md-3 me-1">
