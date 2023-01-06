@@ -6,7 +6,9 @@
 
 
         <!-- little writeup about me -->
-        <?php include_once "intro.php"; ?>
+        <?php 
+            include_once "intro.php"; 
+        ?>
 
         <!-- About me -->
         <div class="row">

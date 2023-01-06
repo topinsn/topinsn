@@ -21,24 +21,22 @@
                 <h2 style="text-align: center;">RESEARCHER. INVENTOR. AUTHOR.</h2>
                 <p style="text-align: justify;">
                     Temitope Olaoluwa is a full-stack software developer who started as a linguist passionate about information systems. His passion influenced his choice of dissertation towards the new media for communicative intent and exploration.
-                    <ol>
-                        <li>HTML/CSS</li>
-                        <li>Bootstrap</li>
-                        <li>Javascript</li>
-                        <li>Python Flask</li>
-                        <li>SEO, Responsive web layout</li>
-                    </ol>
+                    <?php 
+                        include_once ("skills.php");
+                    ?>
 
                 </p>
             </div>
         </div>
+
+        
         <!-- Banner (my intent) -->
-        <div class="row bg-#f2f2f1ff">
+        <!-- <div class="row bg-#f2f2f1ff">
             <div class="col-md-12 text-center">
 
                 <img src="images/banner_1.png" alt="what_I_do" class="img-fluid mt-2 mb-2" width="1350px" height="300px">
             </div>
-        </div>
+        </div> -->
         <!-- pix and publication -->
         <div class="row">
             <div class="col-md-5">
