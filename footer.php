@@ -16,9 +16,12 @@
 
                     <i class="fa-brands fa-linkedin"></i>
                     <li><a href="https://www.linkedin.com/in/topeoyelami/">LinkedIn</a></li>
+
+                    <i class="fa-solid fa-envelope"></i>
+                    <li><a href="mailto: noreply@temidev.com.ng">Email</a></li>
                 </ul>
             </div>       
-                <div class="d-flex justify-content-center">
+                <div class="d-flex justify-content-center mb-2">
                     <span > (c) Temitope Olaoluwa
                         <?php
                             $initial_year = 2021;

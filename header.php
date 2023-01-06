@@ -22,8 +22,10 @@
          /* font-family: 'Open Sans', sans-serif;  */
         
         .menu {
-            background-image: url("images/banner_1.png");
-            min-height: 100px;
+/*            background-image: url("images/banner_1.png");*/
+            min-height: 4px;
+            background-color: rgba(32, 18, 25, 0.8);
+            font-weight: 200;
         }
 
         .menu ul li{
@@ -66,7 +68,7 @@
                 <ul class="d-flex justify-content-end ">
                     <li><a class="" href="index.php">Home</a></li>
                     <li><a class="ps-4" href="about.php">About</a></li>
-                    <li><a class="ps-4" href="portfolio.php">Portfolio</a></li>
+                    <!-- <li><a class="ps-4" href="portfolio.php">Portfolio</a></li> -->
                     <li><a class="ps-4" href="contact.php">Contact</a></li>
                 </ul>
             </div>

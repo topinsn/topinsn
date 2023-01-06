@@ -7,19 +7,19 @@
 </head>
 <style type="text/css">
 	#projects_1{
-		border: 0.1em solid red;
+/*		border: 0.1em solid red;*/
 		min-height: 20em;
 		min-width: 10em;
 	}
 
 	#projects_2{
-		border: 0.1em solid yellowgreen;
+/*		border: 0.1em solid yellowgreen;*/
 		min-height: 20em !important;
 		min-width: 10em !important;
 	}
 
 	#projects_3{
-		border: 0.1em solid blue;
+/*		border: 0.1em solid blue;*/
 		min-height: 20em;
 		min-width: 10em;
 	}
@@ -33,16 +33,15 @@
 	<div class="row d-flex justify-content-center">
 
 		<div id="projects_1" class="col-md-3 me-1">
-			<a href="https://healthcare.temidev.com.ng/"><embed src="http://healthcare.temidev.com.ng/" style="width:auto; height: auto;"></a>
+			<a href="https://healthcare.temidev.com.ng/"><embed src="http://healthcare.temidev.com.ng/" ></a>
 		</div>
 
 		<div id="projects_2" class="col-md-3 me-1">
-
-			
+			<a href="https://healthcare.temidev.com.ng/"><embed src="http://healthcare.temidev.com.ng/" ></a>
 		</div>
 
 		<div id="projects_3" class="col-md-3">
-			
+			<a href="https://healthcare.temidev.com.ng/"><embed src="http://healthcare.temidev.com.ng/" ></a>
 		</div>
 	</div>
 </div>
