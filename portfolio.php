@@ -33,15 +33,15 @@
 	<div class="row d-flex justify-content-center">
 
 		<div id="projects_1" class="col-md-3 me-1">
-			<a href="https://healthcare.temidev.com.ng/"><embed src="http://healthcare.temidev.com.ng/" ></a>
+			<a href="https://healthcare.temidev.com.ng/"><embed src="https://healthcare.temidev.com.ng/" ></a>
 		</div>
 
 		<div id="projects_2" class="col-md-3 me-1">
-			<a href="https://healthcare.temidev.com.ng/"><embed src="http://healthcare.temidev.com.ng/" ></a>
+			<a href="https://healthcare.temidev.com.ng/"><embed src="https://healthcare.temidev.com.ng/" ></a>
 		</div>
 
 		<div id="projects_3" class="col-md-3">
-			<a href="https://healthcare.temidev.com.ng/"><embed src="http://healthcare.temidev.com.ng/" ></a>
+			<a href="https://healthcare.temidev.com.ng/"><embed src="https://healthcare.temidev.com.ng/" ></a>
 		</div>
 	</div>
 </div>
