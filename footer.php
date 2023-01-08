@@ -25,7 +25,9 @@
 
                     <a href="mailto: noreply@temidev.com.ng"><i class="fa-solid fa-envelope"></i>
                     <li>Email</li></a>
+
                 </ul>
+
             </div>
             <div class="d-flex justify-content-center mb-2">
                 <span> &copy; Temitope Olaoluwa
