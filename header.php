@@ -17,6 +17,7 @@
     <link rel="icon" type="image/x-icon" href="images/home.png">
     <link rel="stylesheet" type="text/css" href="fontawesome/css/all.css">
     <title>Temitope Olaoluwa - Freelance Fullstack Web Developer</title>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/css/bootstrap.min.css">
     <style>
         @import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400&display=swap');
          /* font-family: 'Open Sans', sans-serif;  */
