@@ -9,13 +9,3 @@
 topinsn/topinsn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-<!DOCTYPE html>
-<html lang="en">
-
-  <head> 
-    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/css/bootstrap.min.css">
-  </head>
-  <body>
-    <h1 class="d-flex justify-content-center"> This is a test</h1>
-  </body>
- </html>
