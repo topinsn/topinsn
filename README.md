@@ -16,6 +16,6 @@ You can click the Preview link to take a look at your changes.
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/css/bootstrap.min.css">
   </head>
   <body>
-    <h1 class="text-center"> This is a test</h1>
+    <h1 class="d-flex justify-content-center"> This is a test</h1>
   </body>
  </html>
